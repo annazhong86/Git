@@ -1,0 +1,1 @@
+1. Checkout or change into "Master" branch : git checkout Master
