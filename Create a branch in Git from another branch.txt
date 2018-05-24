@@ -1,1 +1,5 @@
 1. Checkout or change into "Master" branch : git checkout Master
+2. Create a new branch Dev under the Master branch: git checkout -b Dev Master
+    (The Master in the above command is not mandatory since the HEAD is currently pointing to it.)
+3. switch to Dev branch: git checkout Dev 
+4. Push to the Dev branch: git push origin Dev.
